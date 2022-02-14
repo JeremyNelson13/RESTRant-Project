@@ -7,6 +7,12 @@
 
 REST-Rant is an app where users can review restaurants.
 
+Places should have
+ - name (string)
+ - city (string)
+ - state (string)
+ - cuisines (string)
+ - picture (string)
 
 | Method | Path | Purpose |
 | ------ | ---- | ------- |
