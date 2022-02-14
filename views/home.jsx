@@ -6,7 +6,7 @@ function home () {
     return (
         <Def>
             <main>
-                <h1>HOME</h1>
+                <h1>Future home of REST-Rants! Pardon our mess!</h1>
             </main>
         </Def>
     )
