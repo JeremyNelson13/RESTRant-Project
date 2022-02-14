@@ -1,7 +1,7 @@
 // constant which imports React module
 const React = require('react')
 
-//stub function with html parameter
+// stub function with html parameter
 function Def (html) {
     return (
         <html>
@@ -10,6 +10,7 @@ function Def (html) {
             </head>
             <body>
                 (html.children)
+
             </body>
         </html>
     )
